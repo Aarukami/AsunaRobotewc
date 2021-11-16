@@ -45,7 +45,6 @@ pygithub
 TgCrypto
 Pyrogram==1.2.9
 PyDictionary
-youtube-dl==2021.6.6
 youtube_search==2.1.0
 lyrics_extractor
 youtube_search_python==1.4.6
